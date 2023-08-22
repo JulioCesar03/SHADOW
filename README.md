@@ -1,5 +1,5 @@
 # SHADOW
-## Olá a todes
+## Olá a Todes :blush:
 
 Criei esse jogo enquanto ainda estuda para criar jogos. E aqui estarei disponibilizando os scripts q eu usei.
 
